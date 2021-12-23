@@ -1,11 +1,13 @@
-<template>
+<template lang="">
 	<div>
 		
 	</div>
 </template>
-
 <script>
 export default {
-	name: 'Counter'
+	
 }
 </script>
+<style lang="">
+	
+</style>
